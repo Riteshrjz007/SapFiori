@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Thu Sep 18 2025 06:14:28 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP Environment on SAP Business Technology Platform)",
+    "metadataFilename": "",
+    "serviceUrl": "https://f3cc5dd0-460a-4857-8feb-b1d471dd9dbc.abap.us10.hana.ondemand.com/sap/opu/odata4/sap/zfe_ui_travel_o4_001122/srvd/sap/zfe_ui_travel_o4_001122/0001/",
+    "appName": "travel_list_report",
+    "appTitle": "Travel",
+    "appDescription": "An SAP Fiori application using list_report",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.6",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.18.7",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Travel"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "None"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
